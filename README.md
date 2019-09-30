@@ -28,7 +28,7 @@ Consideration is given on mobile first aprroach and thus, a single column layout
 
 ### Tablet width
 
-![tablet width](images/smallestIphone.PNG)
+![tablet width](images/tabletView.PNG)
 
 ### laptop width
 
