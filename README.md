@@ -16,23 +16,23 @@ Consideration is given on mobile first aprroach and thus, a single column layout
 
 ### Smallest iPhone width
 
-![smallest mobile width](images/smallestIphone.png)
+![smallest mobile width](images/smallestIphone.PNG)
 
 ### medium mobile width
 
-![medium mobile width](images/mediumMobile.png)
+![medium mobile width](images/mediumMobile.PNG)
 
 ### Large mobile width
 
-![large mobile width](images/largeMobile.png)
+![large mobile width](images/largeMobile.PNG)
 
 ### Tablet width
 
-![tablet width](images/smallestIphone.png)
+![tablet width](images/smallestIphone.PNG)
 
 ### laptop width
 
-![laptop width](images/laptopView.png)
+![laptop width](images/laptopView.PNG)
 
 ## License
 
